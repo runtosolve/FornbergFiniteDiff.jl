@@ -1,0 +1,4 @@
+name = "FornbergFiniteDiff"
+uuid = "bc6155a8-87c8-416d-b52d-44cfacf6a7f1"
+authors = ["Cris Moen <54078289+cristophermoen@users.noreply.github.com>"]
+version = "0.1.0"
